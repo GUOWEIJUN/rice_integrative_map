@@ -1,0 +1,1 @@
+This is an code example of identification of differentially methylated regions (DMRs) in R.
